@@ -1,5 +1,9 @@
 Hello, folks! <img src="https://github.com/LinaPaliakova/LinaPaliakova/blob/main/wave.gif>.gif" width="30px">
 
+<!-- Icons -->
+
+[1.1]: https://github.com/LinaPaliakova/LinaPaliakova/blob/main/wave.gif
+
 
 My name is Palina Paliakova and I'm a NOC support engineer. I'm from Belarus, working at IDT. You can find me  on [![LinkedIn][2.2]][2].
 
