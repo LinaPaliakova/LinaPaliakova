@@ -10,7 +10,7 @@ My name is Palina Paliakova and I'm a NOC support engineer. I'm from Belarus, wo
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/palina-paliakova/
 
-🔧 Technologies & Tools:
+<h1>🔧 Technologies & Tools:</h1>
 
 OS:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
