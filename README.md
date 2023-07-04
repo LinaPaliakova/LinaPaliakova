@@ -11,12 +11,3 @@ I have a passion for learning and sharing my knowledge with others. My dream is 
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/palina-paliakova/
 
-<h3>🔧 Technologies & Tools:</h3>
-
-OS:
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
-
-Scripting languages:
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a) 
