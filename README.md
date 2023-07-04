@@ -2,7 +2,7 @@
 
 <!-- Icons -->
 My name is Palina Paliakova and I'm a L2 technical support engineer. I'm from Belarus, working at Luxoft Poland. You can find me  on [![LinkedIn][2.2]][2].
-I have a passion for learning and sharing my knowledge with others. My dream is to become a DevOps engineer.  I hope you will also find useful tips and code examples in my GitHub.
+I have a passion for learning and sharing my knowledge with others. Learning Devops tool set, Python, Bash.  I hope you will also find useful tips and code examples in my GitHub.
 
 <!-- Icons -->
 
