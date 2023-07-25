@@ -1,13 +1,10 @@
-<h1>Hello, folks! <img src="https://github.com/LinaPaliakova/LinaPaliakova/blob/main/wave.gif" width="40" height="40" /></h1>
+# Hello, world! 
+👋 I'm Palina, a passionate SRE engineer with a love for problem-solving, troubleshotting, automation and Cloud. Welcome to my GitHub profile!
 
-<!-- Icons -->
-My name is Palina Paliakova and I'm a L2 technical support engineer. I'm from Belarus, working at Luxoft Poland. You can find me  on [![LinkedIn][2.2]][2].
-I have a passion for learning and sharing my knowledge with others. Learning Devops tool set, Python, Bash.  I hope you will also find useful tips and code examples in my GitHub.
+## About Me
+I started my journey in IT 5 years ago. Since then, I have been continuously learning and honing my skills as a Technical support and SRE engineer. My primary programming languages are Python and Bash, but I'm always eager to explore new technologies and languages.
 
-<!-- Icons -->
+Feel free to explore my repositories:) 
 
-[2.2]: https://github.com/LinaPaliakova/LinaPaliakova/blob/main/linkedin%20(1).png
 
-<!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/palina-paliakova/
 
